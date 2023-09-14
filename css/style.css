@@ -699,7 +699,10 @@ section.plans {
 	background-image: url(../img/beach.jpg);
 	background-repeat: no-repeat;
 }
-
+.five{
+	background-image: url(../img/taxi.jpg);
+	background-repeat: no-repeat;
+}
 @media all and (max-width: 480px) {
 	section.tittles h1 {
 		font-size: 37px;
